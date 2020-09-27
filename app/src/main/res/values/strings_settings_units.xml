@@ -1,0 +1,46 @@
+<!-- Do not change the order of any strings in here, without discussing first on the "Issues" page -->
+<!-- Do not delete any blank lines -->
+<resources>
+    <!-- Settings/Units -->
+    <string name="settings_title_units">หน่วยวัด</string>
+    <string name="setting_lengthUnits">หน่วยความยาว</string>
+    <string name="setting_speedUnits">หน่วยความเร็ว</string>
+    <string name="setting_tempUnits">หน่วยอุณหภูมิ</string>
+    <string name="setting_showTempAsInteger">แสดงอุณหภูมิเป็นจำนวนเต็มเท่านั้น</string>
+    <string name="setting_pressureUnits">หน่วยแรงดัน</string>
+    <string name="setting_auto_detect_location">ตรวจหาตำแหน่ง</string>
+    <string name="setting_differentiateDaysByTint">สร้างความแตกต่างของวันด้วยสี</string>
+
+    <string name="setting_unit_mps">เมตรต่อวินาที (m / s)</string>
+    <string name="setting_unit_kph">กิโลเมตรต่อชั่วโมง (kph</string>
+    <string name="setting_unit_mph">ไมล์ต่อชั่วโมง (ไมล์ต่อชั่วโมง)</string>
+    <string name="setting_unit_bft">Beaufort wind scale (bft)</string>
+    <string name="setting_unit_kn">Knots (kn)</string>
+    <string name="setting_unit_Celsuis">เซลเซียส</string>
+    <string name="setting_unit_Fahrenheit">ฟาเรนไฮต์</string>
+    <string name="setting_unit_Kelvin">เคลวิน</string>
+
+    <string name="setting_unit_mm">มิลลิเมตร (mm)</string>
+    <string name="setting_unit_in">นิ้ว (in)</string>
+
+    <string name="setting_unit_hpa">hPa/mBar</string>
+    <string name="setting_unit_kpa">kPa</string>
+    <string name="setting_unit_mmhg">mm Hg</string>
+    <string name="setting_unit_inhg">in Hg</string>
+
+    <string name="speed_unit_mps">m/s</string>
+    <string name="speed_unit_kph">kph</string>
+    <string name="speed_unit_mph">mph</string>
+    <string name="speed_unit_kn">kn</string>
+
+    <string name="pressure_unit_hpa">hPa/mBar</string>
+    <string name="pressure_unit_kpa">kPa</string>
+    <string name="pressure_unit_mmhg">mm Hg</string>
+
+    <string name="uvi_no_info">ไม่มีข้อมูล</string>
+    <string name="uvi_low">ต่ำ</string>
+    <string name="uvi_moderate">ปานกลาง</string>
+    <string name="uvi_high">สูง</string>
+    <string name="uvi_very_high">สูงมาก</string>
+    <string name="uvi_extreme">เกินมาตราฐาน</string>
+</resources>
